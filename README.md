@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square"/></a>&nbsp
   
   <br>
-  <img src="https://img.shields.io/badge/Mysql-007396?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Nginx-339933?style=flat-square&logo=nginx&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Vultr-007BFC?style=flat-square&logo=vultr&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp  
