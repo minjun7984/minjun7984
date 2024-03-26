@@ -1,4 +1,3 @@
-### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?height=150&type=Waving&text=Minjun%20Jung&fontColor=FFFFFF&fontSize=65)
 </br>
 <h3 align="center">📚 Tech Stack 📚</h3>
